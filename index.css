@@ -39,11 +39,12 @@
     flex:1;
 }
 #f2{
-    background-color:deeppink;
+    background-color:gray;
     /*height:25%;*/
     flex:1;
     display:flex;
-    padding: 1rem;
+    padding: 12px 10px;
+
 }
 #le{
     background-color: chocolate;
